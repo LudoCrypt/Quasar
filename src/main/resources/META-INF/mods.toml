@@ -1,6 +1,5 @@
 modLoader="javafml"
 loaderVersion="[31,)"
-displayURL="https://minecraft.curseforge.com/projects/quasar"
 logoFile="quasarlogo.png"
 
 [[mods]]
