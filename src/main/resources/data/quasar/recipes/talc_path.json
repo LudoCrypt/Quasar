@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " q ",
+        "qQq",
+        " q "
+    ],
+    "key": {
+        "q": {
+            "item": "quasar:talc_ingot"
+        },
+        "Q": {
+            "item": "quasar:talc_tile"
+        }
+    },
+    "result": {
+        "item": "quasar:talc_path",
+        "count": 1
+    }
+}

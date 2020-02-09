@@ -1,0 +1,13 @@
+{
+  "item.quasar.talc_ingot": "Talc Ingot",
+  "block.quasar.talc_ore": "Talc Ore",
+  "block.quasar.talc_block": "Talc Block",
+  "block.quasar.talc_brick": "Talc Brick",
+  "block.quasar.talc_odd_brick": "Talc Odd Brick",
+  "block.quasar.talc_odd_path": "Talc Odd Path",
+  "block.quasar.talc_path": "Talc Path",
+  "block.quasar.talc_tile": "Talc Tile",
+  "block.quasar.talc_uneven_brick": "Talc Uneven Brick",
+  "block.quasar.talc_walkway": "Talc Walkway",
+  "block.quasar.talc_wide_tile": "Talc Wide Tile"
+}

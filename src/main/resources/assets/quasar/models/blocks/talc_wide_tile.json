@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "quasar:blocks/talc_wide_tile"
+    }
+}

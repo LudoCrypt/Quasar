@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+displayURL="https://minecraft.curseforge.com/projects/quasar"
+logoFile="quasarlogo.png"
+
+[[mods]]
+modId="quasar"
+version="1.0"
+displayName="Quasar"
+credits="LudoCrypt"
+displayURL="https://www.youtube.com/channel/UCzUg6zwYFUz8hK_G3nuuLlQ"
+authors="LudoCrypt"
+description="Quasar, its like vanilla plus.
+
+“I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.”
+- Mewtwo "
+
+[[dependencies.quasar]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

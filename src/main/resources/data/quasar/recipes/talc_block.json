@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:clay",
+            "item_h": "minecraft:clay"
+        },
+        {
+            "item": "quasar:talc_ingot",
+            "item_h": "quasar:talc_ingot"
+        }
+    ],
+    "result": {
+        "item": "quasar:talc_block",
+        "count": 1
+    }
+}

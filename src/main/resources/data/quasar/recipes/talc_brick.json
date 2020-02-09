@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bricks",
+            "item_h": "minecraft:bricks"
+        },
+        {
+            "item": "quasar:talc_ingot",
+            "item_h": "quasar:talc_ingot"
+        }
+    ],
+    "result": {
+        "item": "quasar:talc_brick",
+        "count": 1
+    }
+}
