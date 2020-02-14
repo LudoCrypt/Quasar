@@ -9,5 +9,17 @@
   "block.quasar.talc_tile": "Talc Tile",
   "block.quasar.talc_uneven_brick": "Talc Uneven Brick",
   "block.quasar.talc_walkway": "Talc Walkway",
-  "block.quasar.talc_wide_tile": "Talc Wide Tile"
+  "block.quasar.talc_wide_tile": "Talc Wide Tile",
+  "block.quasar.talc_two_brick": "Talc Two Brick",
+  "block.quasar.gneiss": "Gneiss",
+  "block.quasar.gneiss_block": "Gneiss Block",
+  "block.quasar.gneiss_brick": "Gneiss Brick",
+  "block.quasar.gneiss_odd_brick": "Gneiss Odd Brick",
+  "block.quasar.gneiss_odd_path": "Gneiss Odd Path",
+  "block.quasar.gneiss_path": "Gneiss Path",
+  "block.quasar.gneiss_tile": "Gneiss Tile",
+  "block.quasar.gneiss_uneven_brick": "Gneiss Uneven Brick",
+  "block.quasar.gneiss_walkway": "Gneiss Walkway",
+  "block.quasar.gneiss_wide_tile": "Gneiss Wide Tile",
+  "block.quasar.gneiss_two_brick": "Gneiss Two Brick"
 }
