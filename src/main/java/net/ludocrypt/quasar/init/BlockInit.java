@@ -69,7 +69,7 @@ public class BlockInit
 		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(0.1F, 0.1F).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(0)).setRegistryName("talc_ore"));
 
 		//Stones
-		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.0F, 1.0F).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(0)).setRegistryName("gneiss"));
+		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(2.5F, 2.5F).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(0)).setRegistryName("gneiss"));
 		
 		//Block
 		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.2F, 1.2F).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(1)).setRegistryName("talc_block"));
