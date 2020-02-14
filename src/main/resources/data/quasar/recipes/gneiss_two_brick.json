@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "quasar:gneiss",
+        "item_h": "quasar:gneiss"
+    },
+    "result": "quasar:gneiss_two_brick",
+    "count": 1
+}

@@ -4,6 +4,6 @@
         "item": "quasar:talc_block",
         "item_h": "quasar:talc_block"
     },
-    "result": "quasar:talc_wide_tile",
+    "result": "quasar:talc_two_brick",
     "count": 1
 }

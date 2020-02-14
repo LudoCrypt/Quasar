@@ -1,20 +1,9 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " q ",
-        "qQq",
-        " q "
-    ],
-    "key": {
-        "q": {
-            "item": "quasar:talc_ingot"
-        },
-        "Q": {
-            "item": "quasar:talc_block"
-        }
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "quasar:talc_block",
+        "item_h": "quasar:talc_block"
     },
-    "result": {
-        "item": "quasar:talc_tile",
-        "count": 1
-    }
+    "result": "quasar:talc_tile",
+    "count": 1
 }
