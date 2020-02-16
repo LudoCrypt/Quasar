@@ -21,5 +21,16 @@
   "block.quasar.gneiss_uneven_brick": "Gneiss Uneven Brick",
   "block.quasar.gneiss_walkway": "Gneiss Walkway",
   "block.quasar.gneiss_wide_tile": "Gneiss Wide Tile",
-  "block.quasar.gneiss_two_brick": "Gneiss Two Brick"
+  "block.quasar.gneiss_two_brick": "Gneiss Two Brick",
+  "block.quasar.breccia": "Breccia",
+  "block.quasar.breccia_block": "Breccia Block",
+  "block.quasar.breccia_brick": "Breccia Brick",
+  "block.quasar.breccia_odd_brick": "Breccia Odd Brick",
+  "block.quasar.breccia_odd_path": "Breccia Odd Path",
+  "block.quasar.breccia_path": "Breccia Path",
+  "block.quasar.breccia_tile": "Breccia Tile",
+  "block.quasar.breccia_uneven_brick": "Breccia Uneven Brick",
+  "block.quasar.breccia_walkway": "Breccia Walkway",
+  "block.quasar.breccia_wide_tile": "Breccia Wide Tile",
+  "block.quasar.breccia_two_brick": "Breccia Two Brick"
 }

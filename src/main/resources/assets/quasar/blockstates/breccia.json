@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "quasar:blocks/breccia" }
+    }
+}
