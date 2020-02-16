@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "quasar:breccia",
+        "item_h": "quasar:breccia"
+    },
+    "result": "quasar:breccia_block",
+    "count": 1
+}
